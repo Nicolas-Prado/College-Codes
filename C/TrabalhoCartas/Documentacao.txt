@@ -1,0 +1,14 @@
+Game.c:
+- Executa pelo terminal, colocando como N parametros o nome dos n-1 players e o tamanho do tabuleiro
+
+CadastroJogador.c:
+- Recebe um paremetro, o nome do novo Jogador, e assim ira cria-lo no Jogadoresvw.txt
+
+Jogadoresdb.txt:
+- Recebera dados de um struct desta forma: 
+player[1], player[2], player[3], ..., player[n]; pontuação[n+1], pontuação[n+2], ... pontuação[n+n]
+
+Jogadoresvw.txt:
+- Recebera dados de um vetor nome, que ira apresentar de maneira alinhada no doc
+
+

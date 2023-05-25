@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "math.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c"
+    }
+}
